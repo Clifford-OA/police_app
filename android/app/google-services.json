@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "180440919252",
+    "project_id": "mttd-fafae",
+    "storage_bucket": "mttd-fafae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180440919252:android:e757092c7828af9c799f41",
+        "android_client_info": {
+          "package_name": "com.example.fine_payment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180440919252-0g0imstb4v7tp77378is9g37j2pte5ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChxl9W7-OL6bBOqGmYyXOS-BBy5mzfgYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180440919252-0g0imstb4v7tp77378is9g37j2pte5ee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "180440919252-r3edjh0kgrm9euuk2mn3og8ne5e72rbl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mttdFinePayment"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180440919252:android:b29a3d59576a93f9799f41",
+        "android_client_info": {
+          "package_name": "com.example.mttd_fine_payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180440919252-0g0imstb4v7tp77378is9g37j2pte5ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChxl9W7-OL6bBOqGmYyXOS-BBy5mzfgYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180440919252-0g0imstb4v7tp77378is9g37j2pte5ee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "180440919252-r3edjh0kgrm9euuk2mn3og8ne5e72rbl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mttdFinePayment"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180440919252:android:39800c8c4611b2a2799f41",
+        "android_client_info": {
+          "package_name": "com.example.police_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180440919252-0g0imstb4v7tp77378is9g37j2pte5ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChxl9W7-OL6bBOqGmYyXOS-BBy5mzfgYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180440919252-0g0imstb4v7tp77378is9g37j2pte5ee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "180440919252-r3edjh0kgrm9euuk2mn3og8ne5e72rbl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mttdFinePayment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
